@@ -1,0 +1,12 @@
+jo;ll'l;k Volume in drive C is Windows
+ Volume Serial Number is 3E2D-90D1
+
+ Directory of C:\GIT
+
+11-01-2023  12:13    <DIR>          .
+11-01-2023  11:07               326 index.html
+11-01-2023  12:13                 0 newfile.txt
+11-01-2023  11:21               316 test.txt
+11-01-2023  12:12               390 test2.txt
+               4 File(s)          1,032 bytes
+               1 Dir(s)  172,197,134,336 bytes free
